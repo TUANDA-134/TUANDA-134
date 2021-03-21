@@ -10,6 +10,8 @@ namespace Phân_tích_thiết_kế_và_giải_thuật
             Console.WriteLine("Ai do co toi hoi");
             //Ai day nhi
             Console.WriteLine("Ai do co toi hoi");
+            Console.WriteLine("Ai do co toi hoi");
         }
+        
     }
 }
